@@ -619,4 +619,4 @@ style "chrome-gtk-frame"
 class "ChromeGtkFrame" style "chrome-gtk-frame"
 
 include "nautilus.rc"    # Nautilus styling
-
+include "whisker.rc" #whisker menu styling

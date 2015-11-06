@@ -3,7 +3,7 @@ style "theme-panel" = "murrine-dark"
 	xthickness	= 1
 	ythickness	= 0
 	
-	bg[NORMAL]	= "#212936"
+	bg[NORMAL]	= "#2B3640"
 	bg[ACTIVE]	= "#091720"
 	bg[PRELIGHT]	= "#16364d"
 	
